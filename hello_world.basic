@@ -1,0 +1,8 @@
+0 rem !to "build/hello.prg"
+5 print "{clear}"
+10 print "hello world on c64 basic"
+20 print "part of dustlayer tutorials"
+22 print "------------------------"
+25 print "http://www.dustlayer.com"
+30 poke 53281,0:poke 53280,0
+
